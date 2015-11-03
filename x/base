@@ -1,0 +1,5 @@
+x11-base/xorg-server
+x11-apps/xmodmap
+x11-apps/xrandr
+x11-apps/xset
+x11-apps/xinit

@@ -1,0 +1,4 @@
+sys-firmware/iwl6000-ucode
+sys-firmware/iwl6005-ucode
+sys-firmware/iwl6030-ucode
+sys-firmware/iwl6050-ucode
