@@ -1,3 +1,9 @@
 @sys/utils
 @sys/kernel
 @sys/systemd
+@sys/log
+@sys/cron
+@sys/boot
+@app/gentoo
+@sys/sec
+@sys/editor

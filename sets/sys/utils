@@ -1,2 +1,5 @@
 sys-apps/usbutils
 app-misc/ranger
+sys-apps/pciutils
+sys-apps/mlocate
+app-misc/tmux
